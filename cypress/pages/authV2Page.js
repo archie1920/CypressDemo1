@@ -118,8 +118,8 @@ class authV2 {
   }
 
   
-  apiKey = "9363f4854645646457458771d88918f3";
-  domain = "xyz.testinator.com";
+  apiKey = "71d88918f3";
+  domain = "testinator.com";
   inbox = "test*";
   limit = 1;
   sort = "descending";
