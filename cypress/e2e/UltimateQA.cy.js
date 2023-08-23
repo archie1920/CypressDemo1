@@ -21,6 +21,8 @@ describe("Cypress E2E demo using UltimateQA", () => {
     cy.get('input[name="user[terms]"]').click({ multiple: true, force: true });
     cy.get("button").click({ multiple: true, force: true });
       
-    //handling captcha is work in progress ... looking for the solution how to handle it ...
+    //sign up successful
+    cy.contains('a','My Dashboard').should("exist").should("have.attr", 'href', '/enrollments')
+    
   });
 });
