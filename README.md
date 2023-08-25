@@ -10,11 +10,13 @@ In this Repo I have 3 Specs -
 1. PlayGroundTest 
 Sample Cypress script to validate <a href="http://uitestingplayground.com">UI Testing Playground</a> site 
 
-2. SignUp_mailinatorAPI 
-    a. Signup flow with Maininator API to get the verification code 
+2. SignUp_mailinatorAPI
+   
+    a. Signup flow with Maininator API to get the verification code
+   
     b. Forgot password flow with mailinator API to get the verification code
 
-3. UltimateQA
+4. UltimateQA
 Simple test case to login to https://courses.ultimateqa.com/users/sign_in site
 
 </p>
