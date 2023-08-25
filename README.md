@@ -1,5 +1,6 @@
-# CypressDemo1
+# Automation using Cypress 
 
+<h3> The main purpose of this repository is to show a glimpse of my automation skills and help others who are learning and improving like me.</h3>
 
 **Spec Info -**
 ---
