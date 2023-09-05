@@ -5,7 +5,7 @@
 **Spec Info -**
 ---
 
-In this Repo I have 3 Specs -
+In this Repo, I have 4 Specs -
 
 1. PlayGroundTest 
 Sample Cypress script to validate <a href="http://uitestingplayground.com">UI Testing Playground</a> site 
@@ -15,6 +15,9 @@ Sample Cypress script to validate <a href="http://uitestingplayground.com">UI Te
     a. Signup flow with Maininator API to get the verification code
    
     b. Forgot password flow with mailinator API to get the verification code
+
+3. Purchase-throughStripe - 
+Sample code where user initiates the purchase flow from home page and completes it on stipre portal. After successful purchase, the user comes back to order complete page.
 
 4. UltimateQA
 Simple test case to login to https://courses.ultimateqa.com/users/sign_in site
